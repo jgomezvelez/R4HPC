@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH -J hello
-#SBATCH -A ccsd
+#SBATCH -A ccsi
 #SBATCH -p batch
 #SBATCH --nodes=4
 #SBATCH --ntasks-per-node=4

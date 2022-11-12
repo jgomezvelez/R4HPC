@@ -1,6 +1,6 @@
 #!/bin/bash
 #SBATCH -J rf
-#SBATCH -A ccsd
+#SBATCH -A ccsi
 #SBATCH -p batch
 #SBATCH -N 1
 #SBATCH -c 32
