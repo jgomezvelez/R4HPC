@@ -24,12 +24,12 @@ module load r/4.1.0-py3-X
 echo "loaded R"
 module list
 
-time Rscript rf_serial.r
-time Rscript rf_mc.r --args 1
-time Rscript rf_mc.r --args 2
-time Rscript rf_mc.r --args 4
-time Rscript rf_mc.r --args 8
-time Rscript rf_mc.r --args 16
-time Rscript rf_mc.r --args 32
-time Rscript rf_mc.r --args 64
+time Rscript rf_serial.R
+time Rscript rf_mc.R --args 1
+time Rscript rf_mc.R --args 2
+time Rscript rf_mc.R --args 4
+time Rscript rf_mc.R --args 8
+time Rscript rf_mc.R --args 16
+time Rscript rf_mc.R --args 32
+time Rscript rf_mc.R --args 64
 

@@ -9,7 +9,8 @@ y = x %*% beta + err
 data = as.data.frame(cbind(y, x))
 names(data) = c("y", paste0("x", 1:ncol(x)))
 
-setback("OPENBLAS")
+#setback("OPENBLAS")
+setback("ATLAS")
 # qr --------------------------------------
 for(i in 0:4) {
   setthreads(2^i, "qr")

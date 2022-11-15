@@ -1,0 +1,10 @@
+/home/8n8/R4HPC/code_1
+loaded R with flexiblas
+[1668047306.192804] [or-condo-c172:8643 :0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.202035] [or-condo-c172:8644 :0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.219020] [or-condo-c171:23759:0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.220855] [or-condo-c171:23758:0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.223223] [or-condo-c172:8645 :0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.227634] [or-condo-c171:23761:0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.229825] [or-condo-c171:23760:0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument
+[1668047306.237765] [or-condo-c172:8646 :0]       rc_iface.c:794  UCX  ERROR error modifying QP to RTR: Invalid argument

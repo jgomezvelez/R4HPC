@@ -1,0 +1,86 @@
+/home/8n8/R4HPC/code_3
+loaded R with flexiblas
+762.939 MiB
+[1] 32
+ Setting ATLAS backend
+qr Setting 1 threads
+   user  system elapsed 
+108.737   4.374  31.068 
+qr Setting 2 threads
+   user  system elapsed 
+108.544   4.486  31.202 
+qr Setting 4 threads
+   user  system elapsed 
+108.426   4.494  31.178 
+qr Setting 8 threads
+   user  system elapsed 
+108.695   4.941  31.192 
+qr Setting 16 threads
+   user  system elapsed 
+108.336   4.224  30.914 
+prcomp Setting 1 threads
+   user  system elapsed 
+149.777   4.984  44.747 
+prcomp Setting 2 threads
+   user  system elapsed 
+149.545   4.848  44.511 
+prcomp Setting 4 threads
+   user  system elapsed 
+149.874   4.910  44.538 
+prcomp Setting 8 threads
+   user  system elapsed 
+149.433   4.783  44.359 
+prcomp Setting 16 threads
+   user  system elapsed 
+149.697   4.864  44.583 
+princomp Setting 1 threads
+   user  system elapsed 
+ 54.388   2.681  20.667 
+princomp Setting 2 threads
+   user  system elapsed 
+ 54.446   2.699  20.680 
+princomp Setting 4 threads
+   user  system elapsed 
+ 54.224   2.615  20.711 
+princomp Setting 8 threads
+   user  system elapsed 
+ 53.829   2.570  20.371 
+princomp Setting 16 threads
+   user  system elapsed 
+ 54.557   2.520  20.533 
+crossprod Setting 1 threads
+   user  system elapsed 
+ 15.298   0.068   3.968 
+crossprod Setting 2 threads
+   user  system elapsed 
+ 15.357   0.085   3.971 
+crossprod Setting 4 threads
+   user  system elapsed 
+ 15.396   0.043   4.023 
+crossprod Setting 8 threads
+   user  system elapsed 
+ 15.446   0.127   4.059 
+crossprod Setting 16 threads
+   user  system elapsed 
+ 15.425   0.117   4.000 
+crossprod Setting 32 threads
+   user  system elapsed 
+ 15.196   0.061   3.929 
+%*% Setting 1 threads
+   user  system elapsed 
+ 31.576   0.509   8.708 
+%*% Setting 2 threads
+   user  system elapsed 
+ 31.383   0.333   8.618 
+%*% Setting 4 threads
+   user  system elapsed 
+ 31.496   0.370   8.600 
+%*% Setting 8 threads
+   user  system elapsed 
+ 30.968   0.393   8.499 
+%*% Setting 16 threads
+   user  system elapsed 
+ 31.211   0.289   8.575 
+%*% Setting 32 threads
+   user  system elapsed 
+ 31.349   0.278   8.519 
